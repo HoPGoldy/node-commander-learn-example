@@ -1,0 +1,25 @@
+{
+  "name": "commander-learn-example",
+  "version": "1.0.0",
+  "description": "学习 commander 时制作的一些实例",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoPGoldy/node-commander-learn-example.git"
+  },
+  "keywords": [
+    "node",
+    "commander",
+    "example"
+  ],
+  "author": "hopgoldy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/HoPGoldy/node-commander-learn-example/issues"
+  },
+  "homepage": "https://github.com/HoPGoldy/node-commander-learn-example#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
