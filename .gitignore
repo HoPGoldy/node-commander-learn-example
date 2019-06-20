@@ -59,3 +59,5 @@ typings/
 
 # next.js build output
 .next
+
+bin/save-setting-json-example/setting.json
