@@ -1,5 +1,5 @@
 # node-commander-learn-example
-学习 commander 时制作的一些实例
+学习 commander 时制作的一些示例
 
 - 本项目是文章 [简书 - 制作 node 命令行！](https://www.jianshu.com/p/cab0ab31fc4f) 的示例合集，请参考该文章进行阅读。
 - 本项目包含了以下三个示例，均存放在 `bin/` 目录下。
